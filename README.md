@@ -1,2 +1,2 @@
-# spring-ai-gpt
-Spring Framework for AI GPT model 4o
+# spring-gpt-4o
+spring-gpt-4o
